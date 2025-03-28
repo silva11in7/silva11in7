@@ -44,7 +44,7 @@
 ---
 
 ## 🎵 Currently Listening on Spotify  
-[![Spotify Now Playing](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/pc6g4yde0qd3ex2r4ijp45q1q)
+[![Spotify Now Playing](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/silva.11in7/pc6g4yde0qd3ex2r4ijp45q1q)
 
 ---
 
